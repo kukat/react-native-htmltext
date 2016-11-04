@@ -1,8 +1,8 @@
 {
   "name": "html-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WIP: Experiment to use HTML like markup to create stylized text in react-native.",
-  "main": "index.ios.js",
+  "main": "index.js",
   "dependencies": {
     "parse5": "^1.4.1",
   },
