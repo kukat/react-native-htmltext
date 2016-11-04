@@ -1,14 +1,19 @@
 {
-  "name": "react-native-htmltext",
-  "version": "0.0.1",
-  "description": "Use HTML like markup to create stylized text in react-native.",
-  "private": true,
+  "name": "html-text",
+  "version": "1.0.0",
+  "description": "WIP: Experiment to use HTML like markup to create stylized text in react-native.",
+  "main": "index.ios.js",
   "scripts": {
-    "start": "react-native start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "main": "lib/HtmlText.js",
-  "dependencies": {
-    "parse5": "^1.4.1",
-    "react-native": "git://github.com/facebook/react-native.git"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrcjing/react-native-htmltext.git"
+  },
+  "author": "Lisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrcjing/react-native-htmltext/issues"
+  },
+  "homepage": "https://github.com/jrcjing/react-native-htmltext#readme"
 }
